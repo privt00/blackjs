@@ -1,0 +1,3 @@
+alert/uzbjs/element.addEventListener('click', () => { const target = document.querySelector('TARGET_ID'); if (target) { target.style.display = 'block'; } });
+hide/uzbjs/element.addEventListener('click', () => { const target = document.querySelector('TARGET_ID'); if (target) { target.style.display = 'none'; } });
+show/uzbjs/element.addEventListener('click', () => { const target = document.querySelector('TARGET_ID'); if (target) { target.style.display = 'block'; } });

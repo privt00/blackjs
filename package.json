@@ -1,5 +1,5 @@
 {
-  "name": "blackjs",
+  "name": "@privt00/blackjs",
   "version": "1.0.0",
   "description": "A simple thing to style your site and make it fast.",
   "main": "index.js",

@@ -1,0 +1,104 @@
+# Globals
+//body=margin: 0
+
+# Hintergrundfarben
+bg-black=background-color: black;
+bg-white=background-color: white;
+bg-red=background-color: red;
+bg-blue=background-color: blue;
+bg-green=background-color: green;
+bg-yellow=background-color: yellow;
+bg-orange=background-color: orange;
+bg-purple=background-color: purple;
+bg-pink=background-color: pink;
+bg-gray=background-color: gray;
+bg-lightblue=background-color: lightblue;
+bg-darkgreen=background-color: darkgreen;
+bg-gold=background-color: gold;
+bg-silver=background-color: silver;
+
+# Textfarben
+text-black=color: black;
+text-white=color: white;
+text-red=color: red;
+text-blue=color: blue;
+text-green=color: green;
+text-yellow=color: yellow;
+text-gray=color: gray;
+text-orange=color: orange;
+
+# Schriftgrößen
+text-sm=font-size: 12px;
+text-base=font-size: 16px;
+text-lg=font-size: 20px;
+text-xl=font-size: 24px;
+text-2xl=font-size: 30px;
+
+# Schriftstile
+font-bold=font-weight: bold;
+font-italic=font-style: italic;
+text-underline=text-decoration: underline;
+text-uppercase=text-transform: uppercase;
+text-lowercase=text-transform: lowercase;
+text-capitalize=text-transform: capitalize;
+
+# Abstände
+m-1=margin: 4px;
+m-2=margin: 8px;
+m-3=margin: 12px;
+m-4=margin: 16px;
+p-1=padding: 4px;
+p-2=padding: 8px;
+p-3=padding: 12px;
+p-4=padding: 16px;
+pt-2.5=padding-top: 10px; padding-bottom: 10px;
+px-10=padding-right: 40px; padding-left: 40px;
+
+# Rahmen
+rounded-sm=border-radius: 4px;
+rounded-md=border-radius: 8px;
+rounded-lg=border-radius: 16px;
+rounded-full=border-radius: 9999px;
+border=border: 1px solid black;
+border-2=border: 2px solid black;
+border-dashed=border: 2px dashed black;
+border-dotted=border: 2px dotted black;
+
+# Schatten
+shadow-sm=box-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+shadow-md=box-shadow: 3px 3px 6px rgba(0,0,0,0.3);
+shadow-lg=box-shadow: 5px 5px 10px rgba(0,0,0,0.4);
+shadow-hover=:hover { box-shadow: 0px 4px 15px rgba(0,0,0,0.5); }
+
+# Animationen
+animate-bounce=animation: bounce 1s infinite;
+animate-fade-in=animation: fadeIn 2s;
+animate-fade-out=animation: fadeOut 2s;
+animate-rotate=animation: rotate 1s infinite linear;
+animate-scale-up=animation: scaleUp 1s infinite alternate;
+animate-scale-down=animation: scaleDown 1s infinite alternate;
+
+# Hover-Effekte
+hover-text-red=:hover { color: red; }
+hover-bg-gray=:hover { background-color: lightgray; }
+hover-scale=:hover { transform: scale(1.1); }
+hover-shadow=:hover { box-shadow: 0px 4px 15px rgba(0,0,0,0.5); }
+hover-border-blue=:hover { border-color: blue; }
+
+# Flexbox und Layout
+flex=display: flex;
+grid=display: grid;
+flex-center=display: flex; justify-content: center; align-items: center;
+flex-between=display: flex; justify-content: space-between;
+flex-around=display: flex; justify-content: space-around;
+
+# Übergänge
+transition=transition: all 0.3s ease-in-out;
+transition-fast=transition: all 0.1s ease-in-out;
+transition-slow=transition: all 0.6s ease-in-out;
+
+# Breiten und Höhen
+w-1/2=width: 50%;
+w-full=width: 100%;
+h-1/2=height: 50%;
+h-full=height: 100%;
