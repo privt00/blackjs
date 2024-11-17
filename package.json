@@ -1,0 +1,22 @@
+{
+  "name": "blackjs",
+  "version": "1.0.0",
+  "description": "A simple thing to style your site and make it fast.",
+  "main": "index.js",
+  "scripts": {
+    "test": "# none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/privt00/blackjs.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "privt00",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/privt00/blackjs/issues"
+  },
+  "homepage": "https://github.com/privt00/blackjs#readme"
+}
